@@ -1,0 +1,7 @@
+CURRENT_THEME_ID=org.eclipse.ui.ide.systemDefault
+ENABLE_ANIMATIONS=true
+TerminalPrefInvertColors=true
+USE_COLORED_LABELS=false
+eclipse.preferences.version=1
+overriddenByCSS=,TerminalPrefInvertColors,
+showIntro=false

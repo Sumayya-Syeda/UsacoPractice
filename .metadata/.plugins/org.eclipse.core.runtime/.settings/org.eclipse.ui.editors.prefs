@@ -1,0 +1,13 @@
+AbstractTextEditor.Color.Background=61,61,61
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.FindScope=61,61,61
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground=255,255,255
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+currentLineColor=61,61,61
+eclipse.preferences.version=1
+lineNumberColor=255,255,255
+overviewRuler_migration=migrated_3.1
+printMarginColor=61,61,61
+spellingEnabled=false
